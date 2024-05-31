@@ -18,7 +18,7 @@ Se realizo un CRUD utilizando la implementacion de JWT Y Spring Boot.
 Tener en cuenta la configuracion de la base de datos, en este caso la realice en mi localhost y el nombre del esquema es PROYECTO_FINAL, pido por favor colocar los datos respectivos de la base de datos MYSQL donde se requieren hacer pruebas
 
 
-![Descripción de la imagen](Screenshot 2024-05-30 221919.png)
+Screenshot 2024-05-30 221919.png
 
 
 
