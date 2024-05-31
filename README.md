@@ -30,7 +30,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 Adjunto link a la coleccion de Postman para poder ejecutar las APIs
 ```
-[API_INVENTARIO_PRODUCTOS.postman_collection.json](https://github.com/JavierlNeira/JAVA-INVENTARIO-FINAL/blob/a917e9f9d2d12ebf9d1b1c8e71329c509cddb224/API_INVENTARIO_PRODUCTOS.postman_collection.json)
+https://github.com/JavierlNeira/JAVA-INVENTARIO-FINAL/blob/a917e9f9d2d12ebf9d1b1c8e71329c509cddb224/API_INVENTARIO_PRODUCTOS.postman_collection.json
 ```
 Pido mil disculpas no tener la documentacion en Swagger, tuve un incoveniente y por mas que intente cargar las APIs nunca lo hizo, creo que es tema del JWT, intente desviar la ip de swagger para que estuviera fuera de JWT pero no me funciono
 
