@@ -85,7 +85,7 @@ Este api Rest se encargara de crear productos y categorias para los productos, l
 
 ![image](https://github.com/JavierlNeira/JAVA-INVENTARIO-FINAL/assets/114690233/a651f5a8-daa2-430e-b174-28f2f6261d10)
 
-La imagen anterior contiene visualiza todos los Mircroservicios
+La imagen anterior visualiza todos los Mircroservicios
 
 La carpeta Categoria tiene 4 MS
 
