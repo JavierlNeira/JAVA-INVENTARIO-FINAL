@@ -13,10 +13,10 @@ Se realizo un CRUD utilizando la implementacion de JWT Y Spring Boot.
 * Jakarta
 
 ## MODELO BASE DE DATOS
-
+![Screenshot 2024-05-30 225546](https://github.com/JavierlNeira/JAVA-INVENTARIO-FINAL/assets/114690233/f895cb6b-0664-495c-bdec-0519d44d6f84)
 ## Accesos
 Tener en cuenta la configuracion de la base de datos, en este caso la realice en mi localhost y el nombre del esquema es PROYECTO_FINAL, pido por favor colocar los datos respectivos de la base de datos MYSQL donde se requieren hacer pruebas
-![Screenshot 2024-05-30 225546](https://github.com/JavierlNeira/JAVA-INVENTARIO-FINAL/assets/114690233/f895cb6b-0664-495c-bdec-0519d44d6f84)
+
 ```javascript
 spring.datasource.url= jdbc:mysql://localhost:3306/PROYECTO_FINAL
 spring.datasource.username=root
